@@ -1,0 +1,59 @@
+nav{
+
+  background-color: #ccc;
+
+}
+
+div.container{
+
+  position: relative;
+
+  margin: 10px;
+
+}
+
+#our-menu{
+
+  text-align: center;
+
+  text-decoration: none;
+
+  text-shadow: 3px;
+
+  font-size: 1.8em;
+
+  font-weight: bolder;
+
+  font-family: sans sans-serif;
+
+}
+
+div#first{
+
+    position: absolute;
+
+    background-color: #aaa;
+
+    padding-left: 10px;
+
+    padding-right: 7px;
+
+}
+
+#chicken{
+
+  text-align: center;
+
+  text-decoration: none;
+
+  text-shadow: 3px;
+
+  font-size: 1.4em;
+
+  font-weight: bolder;
+
+  font-family: sans sans-serif;
+
+  margin-top: 5px;
+
+}
